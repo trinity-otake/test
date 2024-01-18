@@ -1,8 +1,7 @@
-+++
-title = 'Page1'
+str `title = "Page1"
 date = 2024-01-15T17:29:52+09:00
-draft = true
-+++
+draft = false
+---
 
 # テスト文章
 
