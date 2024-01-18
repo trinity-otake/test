@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'jp-ja'
+title = 'My New Hugo Site'
+timeZone = "Asia/Tokyo"
